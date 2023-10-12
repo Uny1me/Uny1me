@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Unyime Emmanuel
 =======================================================================================================================================
 
-Web Developer and Chess Chronicler
+Software Engineer
 ----------------------------------
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [unyimeemmanuel012@gmail.com](mailto:unyimeemmanuel012@gmail.com)
 * 🚀  I'm currently working on and with [GARMSPOT](http://garmspot.com)
 * 🤝  I'm open to collaborating on Well designed projects
-* ⚡  Want to play a game of chess. My chess.com id is Passeng3r
+* ⚡  Want to play a game of chess? My chess.com id is Passeng3r
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
