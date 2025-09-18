@@ -4,11 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------------------------
 
-* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [unyimeemmanuel012@gmail.com](mailto:unyimeemmanuel012@gmail.com)
-* 🚀  I'm currently working on and with [GARMSPOT](http://garmspot.com)
-* 🤝  I'm open to collaborating on Well designed projects
-* ⚡  Want to play a game of chess? My chess.com id is Passeng3r
+* 🤝  I'm open to collaborating on well-designed projects
 
 ### Skills
 
